@@ -1,6 +1,6 @@
 ## Byung-Kwan Lee's Github
 
-🔭 I’m currently Ph.D. candidate in KAIST EE for building efficient vision language model surpassing GPT-4V!
+🔭 I’m currently NVIDIA Research Scientist Intern while being Ph.D. candidate in KAIST EE for building efficient vision language model surpassing GPT-4V!
 
 <!--
 **ByungKwanLee/ByungKwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
