@@ -1,8 +1,10 @@
 ## Byung-Kwan Lee's Github
 
-🔭 I’m currently NVIDIA Research Scientist Intern.
+🔭 I’m currently NVIDIA Research Scientist Intern, and my job is researching innovative technologies leading to Publish Top-Tier Conferences, Tech Transfer to Product, and Contributing the world. 
 
-🎓 My topic of Ph.D in KAIST EE is building high-performing, efficient-size vision language models using merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
+🎓 I am Ph.D in KAIST EE, and my topic is to build high-performing, efficient-size vision language models by using merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
+
+🥅 It is my dream to build real AGI model with my own hands.
 
 <!--
 **ByungKwanLee/ByungKwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
