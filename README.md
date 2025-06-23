@@ -1,6 +1,7 @@
 ## Byung-Kwan Lee's Github
 
 🔭 I’m currently NVIDIA Research Scientist Intern.
+
 🎓 My topic of Ph.D in KAIST EE is building high-performing, efficient-size vision language models using merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
 
 <!--
