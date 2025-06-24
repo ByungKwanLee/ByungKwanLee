@@ -2,7 +2,7 @@
 
 🔭 I’m currently NVIDIA Research Scientist Intern, and my job is researching innovative technologies leading to Publish Top-Tier Conferences, Tech Transfer to Product, and Contributing the world. 
 
-🎓 I am Ph.D in KAIST EE, and my topic is to build high-performing, efficient-size vision language models by using merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
+🎓 I am Ph.D in KAIST EE, and my topic is to build high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
 
 🥅 It is my dream to build real AGI model with my own hands.
 
