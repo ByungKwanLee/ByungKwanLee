@@ -1,6 +1,6 @@
 ## Byung-Kwan Lee's Github
 
-🔭 I’m currently NVIDIA Research Scientist Intern, and my job is researching innovative technologies leading to Publish Top-Tier Conferences, Tech Transfer to Product, and Contributing the world. 
+🔭 I’m currently NVIDIA Research Intern (Incoming Research Scientist), and my job is researching innovative technologies leading to Publish Top-Tier Conferences, Tech Transfer to Product, and Contributing the world. 
 
 🎓 I am Ph.D in KAIST EE, and my topic is to build high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
 
