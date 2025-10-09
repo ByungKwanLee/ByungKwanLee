@@ -1,10 +1,8 @@
 ## Byung-Kwan Lee's Github
 
-🔭 I’m currently Research Scientist at NVIDIA, and my job is researching innovative technologies leading to Publish Top-Tier Conferences, Tech Transfer to Product, and Contributing the world. 
+🔭 I’m currently Research Scientist at NVIDIA, building high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing really larger open- or closed-source models!
 
-🎓 I am Ph.D in KAIST EE, and my topic is to build high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing GPT-4V!
-
-🥅 It is my dream to build real AGI model with my own hands.
+🥅 It is my dream to build real AGI model with my own hands, contribuitng the world's advancement.
 
 <!--
 **ByungKwanLee/ByungKwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
