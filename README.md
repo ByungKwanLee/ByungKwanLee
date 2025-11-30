@@ -29,8 +29,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ByungKwanLee&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByungKwanLee&theme=react-dark)
