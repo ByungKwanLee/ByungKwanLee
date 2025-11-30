@@ -1,4 +1,6 @@
-## Byung-Kwan Lee's Github
+<p align="left">
+  <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a6120f6091d588d000048_NVLogo_2D_H/NVLogo_2D_H_0b8ebd28-4ba6-403f-864b-f5b4712a5ad6-prv.jpg" height="60"/>
+</p>
 
 🔭 I’m currently Research Scientist at NVIDIA, building high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing really larger open- or closed-source models!
 
@@ -21,6 +23,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByungKwanLee&layout=compact&theme=dracula)
 
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByungKwanLee&theme=tokyonight)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ByungKwanLee&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
