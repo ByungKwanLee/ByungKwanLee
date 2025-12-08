@@ -21,8 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByungKwanLee&theme=tokyonight)
-
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByungKwanLee&theme=react-dark)
