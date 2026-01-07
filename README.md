@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a6120f6091d588d000048_NVLogo_2D_H/NVLogo_2D_H_0b8ebd28-4ba6-403f-864b-f5b4712a5ad6-prv.jpg" height="60"/>
+  <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/202512/692f50553d6332b453bbc5c2_nvidia-logo-vert-blk/nvidia-logo-vert-blk_6390c37f-960b-42bd-a176-b51cfa6d7ba4-prv.png" height="120"/>
 </p>
 
 🔭 I’m currently Research Scientist at NVIDIA, building high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing really larger open- or closed-source models!
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByungKwanLee&theme=react-dark)
