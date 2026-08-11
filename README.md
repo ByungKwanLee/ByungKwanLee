@@ -2,9 +2,9 @@
   <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/202512/692f50553d6332b453bbc5c2_nvidia-logo-vert-blk/nvidia-logo-vert-blk_6390c37f-960b-42bd-a176-b51cfa6d7ba4-prv.png" height="70"/>
 </p>
 
-🔭 I’m currently Research Scientist at NVIDIA, building high-performing, efficient-size vision language models by merging proper modules, modifying architectures, and distilling cross-model or self-model knowledge, thereby surpassing really larger open- or closed-source models!
+🔭 I’m currently Research Scientist at NVIDIA, building high-performing and efficient vision-language models. My research explores knowledge distillation, reinforcement and imitation learning, multimodal agents, and visual token pruning. I received his Ph.D. from the School of Electrical Engineering at KAIST.
 
-🥅 It is my dream to build real AGI model with my own hands, contribuitng the world's advancement.
+🥅 It is my dream to build real AGI model by my own hands, contribuitng the world's advancement.
 
 <!--
 **ByungKwanLee/ByungKwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
