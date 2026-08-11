@@ -2,7 +2,7 @@
   <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/202512/692f50553d6332b453bbc5c2_nvidia-logo-vert-blk/nvidia-logo-vert-blk_6390c37f-960b-42bd-a176-b51cfa6d7ba4-prv.png" height="70"/>
 </p>
 
-🔭 I’m currently Research Scientist at NVIDIA, building high-performing and efficient vision-language models. My research explores knowledge distillation, model pruning, reinforcement learning, multimodal agent, and agent harness. I received his Ph.D. from the School of Electrical Engineering at KAIST.
+🔭 I’m currently Research Scientist at NVIDIA, building high-performing and efficient vision-language models. My research explores knowledge distillation, model pruning, reinforcement learning, multimodal agent, and agent harness. I received Ph.D. from the School of Electrical Engineering at KAIST.
 
 [Personal Homepage](https://byungkwanlee.github.io/ByungKwanLee-CV/)
 
