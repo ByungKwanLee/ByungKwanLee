@@ -4,6 +4,9 @@
 
 🔭 I’m currently Research Scientist at NVIDIA, building high-performing and efficient vision-language models. My research explores knowledge distillation, reinforcement and imitation learning, multimodal agents, and visual token pruning. I received his Ph.D. from the School of Electrical Engineering at KAIST.
 
+[Personal Homepage](https://byungkwanlee.github.io/ByungKwanLee-CV/)
+[NVIDIA Official Homepage](https://research.nvidia.com/person/byung-kwan-lee)
+
 🥅 It is my dream to build real AGI model by my own hands, contribuitng the world's advancement.
 
 <!--
